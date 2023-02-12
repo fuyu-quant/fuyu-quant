@@ -18,7 +18,7 @@
 - [ds-mlops](https://github.com/fuyu-quant/ds-mlops)  
   How to implement a simple machine learning system for data scientists
   
-- [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)
+- [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
   Curation site for programming languages and libraries for quantum computation and quantum computation simulators
 
 ## Information
