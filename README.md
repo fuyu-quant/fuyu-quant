@@ -19,6 +19,14 @@
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)
   Curation site for programming languages and libraries for quantum computation and quantum computation simulators
 
+## Information
+
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=fuyu-quant&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyu-quant&layout=compact&theme=dracula" />
+</a>
 
 <!--
 **fuyu-quant/fuyu-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
