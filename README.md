@@ -10,10 +10,14 @@
 - 🌐: [Speaker Deck](https://speakerdeck.com/fuyu0)
 
 ## Repositories that may be useful
-- [data-science](https://github.com/fuyu-quant/data-science)
-- [ds-mlops](https://github.com/fuyu-quant/ds-mlops)
+- [data-science](https://github.com/fuyu-quant/data-science)  
+  Summary of implementation methods for each data science methodology
+  
+- [ds-mlops](https://github.com/fuyu-quant/ds-mlops)  
+  How to implement a simple machine learning system for data scientists
+  
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)
-- 
+  Curation site for programming languages and libraries for quantum computation and quantum computation simulators
 
 
 <!--
