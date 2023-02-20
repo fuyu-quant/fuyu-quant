@@ -13,13 +13,13 @@
 
 ## Repositories that may be useful
 - [data-science](https://github.com/fuyu-quant/data-science)  
-  Summary of implementation methods for each data science methodology
+  Summary of implementation methods for each data science methodology(Japanese)
   
-- [ds-mlops](https://github.com/fuyu-quant/ds-mlops)  
-  How to implement a simple machine learning system for data scientists
+- [dockerfile-for-data-scientists](https://github.com/fuyu-quant/dockerfile-for-data-scientists)  
+  How to implement a simple machine learning system for data scientists(English)
   
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
-  Curation site for programming languages and libraries for quantum computation and quantum computation simulators
+  Curation site for programming languages and libraries for quantum computation and quantum computation simulators(English)
 
 ## Information
 
