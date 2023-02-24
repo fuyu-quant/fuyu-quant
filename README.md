@@ -21,6 +21,15 @@
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
   Curation site for programming languages and libraries for quantum computation and quantum computation simulators(English)
 
+
+## My Favorite Repositories
+- [OSS Insight](https://ossinsight.io/collections/)  
+  Monthly Ranking of Repositories by Sector
+
+- [camenduru/controlnet-colab](https://github.com/camenduru/controlnet-colab)
+  Summary site for running various controlnet with google colab
+
+
 ## Information
 
 <a href="https://github.com/tocoteron">
@@ -30,8 +39,8 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyu-quant&layout=compact&theme=dracula" />
 </a>
 
-## My Favorite Sites
-* https://ossinsight.io/collections/
+
+
 <!--
 **fuyu-quant/fuyu-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
