@@ -27,7 +27,7 @@
   Monthly Ranking of Repositories by Sector
 
 - [camenduru/controlnet-colab](https://github.com/camenduru/controlnet-colab)
-  Summary site for running various controlnet with google colab
+  Summary site for applying ControlNet to various sablediffusion models and running them in Google Colab.
 
 
 ## Information
