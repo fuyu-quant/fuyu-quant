@@ -18,7 +18,7 @@
 - [dockerfile-for-data-scientists](https://github.com/fuyu-quant/dockerfile-for-data-scientists)  
   Various docker environments for data scientists(English)
 
-- [langchain-applications](https://github.com/fuyu-quant/langchain-applications)
+- [langchain-applications](https://github.com/fuyu-quant/langchain-applications)  
   Introduce various applications using LangChain
   
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
