@@ -20,6 +20,8 @@
 
 - [langchain](https://github.com/fuyu-quant/langchain)  
   Introduce various applications using LangChain
+
+- [langchain-tools](https://github.com/fuyu-quant/langchain-tools)
   
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
   Curation site for programming languages and libraries for quantum computation and quantum computation simulators(English)
