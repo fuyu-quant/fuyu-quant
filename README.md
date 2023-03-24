@@ -7,6 +7,7 @@
 
 ## Are you here for looking something about me? I'll give you some information below!
 
+- 🌐: [datascienceportfol.io](https://www.datascienceportfol.io/fuyu_quant)
 - 🌐: [Linkedin](https://www.linkedin.com/in/toma-tanaka-389919230/)
 - 🌐: [Twitter](https://twitter.com/fuyu_quant)
 - 🌐: [Speaker Deck](https://speakerdeck.com/fuyu-quant)
@@ -21,7 +22,8 @@
 - [langchain](https://github.com/fuyu-quant/langchain)  
   Introduce various applications using LangChain
 
-- [langchain-tools](https://github.com/fuyu-quant/langchain-tools)
+- [langchain-tools](https://github.com/fuyu-quant/langchain-tools)  
+  Libraries to extend LLM capabilities
   
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
   Curation site for programming languages and libraries for quantum computation and quantum computation simulators(English)
