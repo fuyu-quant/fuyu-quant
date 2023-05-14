@@ -15,15 +15,15 @@
 ## Repositories that may be useful
 - [data-science](https://github.com/fuyu-quant/data-science)  
   Summary of implementation methods for each data science methodology(Japanese)
+
+- [CreateToolAGI](https://github.com/fuyu-quant/CreateTool-AGI)  
+  The LLM can automatically create tools to improve the LLM's capabilities.
   
 - [dockerfile-for-data-scientists](https://github.com/fuyu-quant/dockerfile-for-data-scientists)  
   Various docker environments for data scientists(English)
 
 - [langchain](https://github.com/fuyu-quant/langchain)  
   Introduce various applications using LangChain
-
-- [langchain-tools](https://github.com/fuyu-quant/langchain-tools)  
-  Libraries to extend LLM capabilities
   
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
   Curation site for programming languages and libraries for quantum computation and quantum computation simulators(English)
