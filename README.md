@@ -3,24 +3,24 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Data Scientist and Machine Learning Engineer.
-- 🌱 I’m currently studying natural language processing, reinforcement learning, and quantum computation. And I am posting information on quantum computation in Japanese on the speaker deck.
+- 🌱 I’m currently studying natural language processing, reinforcement learning, and quantum computation. 
+- I am involved in a research automation project called [Autores](https://sites.google.com/view/automated-research/home?authuser=0).
 
 ## Are you here for looking something about me? I'll give you some information below!
 
-- 🌐: [datascienceportfol.io](https://www.datascienceportfol.io/fuyu_quant)
-- 🌐: [Linkedin](https://www.linkedin.com/in/toma-tanaka-389919230/)
 - 🌐: [Twitter](https://twitter.com/fuyu_quant)
-- 🌐: [Speaker Deck](https://speakerdeck.com/fuyu-quant)
+- 🌐: [Linkedin](https://www.linkedin.com/in/fuyu-quant/)
+- 🌐: [Home page](https://fuyu-quant.notion.site/fuyu-quant/Home-704fefe49d9e425eb512bfba25a1e4c4)
 
 ## Repositories that may be useful
-- [data-science](https://github.com/fuyu-quant/data-science)  
-  Summary of implementation methods for each data science methodology(Japanese)
+- [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)  
+  A variety of machine learning methods are summarized.
 
 - [CreateToolAGI](https://github.com/fuyu-quant/CreateTool-AGI)  
-  The LLM can automatically create tools to improve the LLM's capabilities.
+  An OSS that allows LLM to automatically acquire and extend capabilities.
   
 - [dockerfile-for-data-scientists](https://github.com/fuyu-quant/dockerfile-for-data-scientists)  
-  Various docker environments for data scientists(English)
+  Various docker environments for data scientists．
 
 - [langchain](https://github.com/fuyu-quant/langchain)  
   Introduce various applications using LangChain
