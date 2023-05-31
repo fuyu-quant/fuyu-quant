@@ -1,4 +1,4 @@
-![logo](image/tokyo_yakei.png)  
+![logo](image/wave_pastel.png)  
 
 ### Hi there 👋
 
