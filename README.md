@@ -8,9 +8,9 @@
 
 ## Are you here for looking something about me? I'll give you some information below!
 
-- 🌐: [Twitter](https://twitter.com/fuyu_quant)
-- 🌐: [Linkedin](https://www.linkedin.com/in/fuyu-quant/)
-- 🌐: [Home page](https://fuyu-quant.notion.site/fuyu-quant/Home-704fefe49d9e425eb512bfba25a1e4c4)
+- [Twitter](https://twitter.com/fuyu_quant)
+- [Linkedin](https://www.linkedin.com/in/fuyu-quant/)
+- [Home page](https://fuyu-quant.notion.site/fuyu-quant/Home-704fefe49d9e425eb512bfba25a1e4c4)
 
 ## Repositories that may be useful
 - [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)  
