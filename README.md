@@ -16,7 +16,7 @@
 - [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)  
   A variety of machine learning methods are summarized.
 
-- [Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)  
+- [IBL:Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)  
   A new method for learning predictive models using LLM.
 
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
