@@ -6,11 +6,6 @@
 - 🌱 I study natural language processing, especially in-context learning, quantum machine learning, and quantum optimization. 
 - I am involved in a research automation project called [Autores](https://sites.google.com/view/automated-research/home?authuser=0).
 
-## Are you here for looking something about me? I'll give you some information below!
-
-- [Twitter](https://twitter.com/fuyu_quant)
-- [Linkedin](https://www.linkedin.com/in/fuyu-quant/)
-- [Home page](https://fuyu-quant.notion.site/Toma-Tanaka-7bef6aeb2a2440009692e95246af3a49)
 
 ## Repositories that may be useful
 - [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)  
