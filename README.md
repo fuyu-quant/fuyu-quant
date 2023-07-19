@@ -1,23 +1,26 @@
-![logo](image/wave_pastel.png)  
+![logo](image/tokyo_yakei.png)  
 
 ### Hi there 👋
 
 - 🔭 I’m currently working on Data Scientist and Machine Learning Engineer.
-- 🌱 I’m currently studying natural language processing, reinforcement learning, and quantum computation. 
+- 🌱 I study natural language processing, especially in-context learning, quantum machine learning, and quantum optimization. 
 - I am involved in a research automation project called [Autores](https://sites.google.com/view/automated-research/home?authuser=0).
 
 ## Are you here for looking something about me? I'll give you some information below!
 
 - [Twitter](https://twitter.com/fuyu_quant)
 - [Linkedin](https://www.linkedin.com/in/fuyu-quant/)
-- [Home page](https://fuyu-quant.notion.site/fuyu-quant/Home-704fefe49d9e425eb512bfba25a1e4c4)
+- [Home page](https://fuyu-quant.notion.site/Toma-Tanaka-7bef6aeb2a2440009692e95246af3a49)
 
 ## Repositories that may be useful
 - [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)  
   A variety of machine learning methods are summarized.
 
-- [CreateToolAGI](https://github.com/fuyu-quant/CreateTool-AGI)  
-  An OSS that allows LLM to automatically acquire and extend capabilities.
+- [Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)  
+  A new method for learning predictive models using LLM.
+
+- [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
+  Curation site for programming languages and libraries for quantum computation and quantum computation simulators.
   
 - [dockerfile-for-data-scientists](https://github.com/fuyu-quant/dockerfile-for-data-scientists)  
   Various docker environments for data scientists．
@@ -25,9 +28,6 @@
 - [langchain](https://github.com/fuyu-quant/langchain)  
   Introduce various applications using LangChain
   
-- [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
-  Curation site for programming languages and libraries for quantum computation and quantum computation simulators(English)
-
 
 ## My Favorite Repositories
 - [OSS Insight](https://ossinsight.io/collections/)  
