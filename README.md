@@ -13,15 +13,18 @@
 
 - [IBL:Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)  
   A new method for learning predictive models using LLM.
+  
+- [dockerfile-wiki](https://github.com/fuyu-quant/dockerfile-for-data-scientists)  
+  Various docker environments for data scientists．
+
+- [langchain-wiki](https://github.com/fuyu-quant/langchain)  
+  Introduce various applications using LangChain
+
+- [quantum-algorithm-wiki](https://github.com/fuyu-quant/langchain)  
+  Summary of various quantum algorithms
 
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
   Curation site for programming languages and libraries for quantum computation and quantum computation simulators.
-  
-- [dockerfile-for-data-scientists](https://github.com/fuyu-quant/dockerfile-for-data-scientists)  
-  Various docker environments for data scientists．
-
-- [langchain](https://github.com/fuyu-quant/langchain)  
-  Introduce various applications using LangChain
   
 
 ## My Favorite Repositories
