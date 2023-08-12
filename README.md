@@ -21,7 +21,7 @@
   Introduce various applications using LangChain
 
 - [quantum-algorithm-wiki](https://github.com/fuyu-quant/quantum-algorithm-wiki)  
-  Summary of various quantum algorithms
+  Summary of various quantum algorithms(Currently under construction)
 
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)  
   Curation site for programming languages and libraries for quantum computation and quantum computation simulators.
