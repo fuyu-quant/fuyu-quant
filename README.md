@@ -1,19 +1,22 @@
-![logo](image/tokyo_yakei.png)  
-
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Scientist and Machine Learning Engineer.
+- 🔭 I am currently working as a data scientist and machine learning engineer in Tokyo.
 - 🌱 I study natural language processing, especially in-context learning, quantum machine learning, and quantum optimization. 
 - I am involved in a research automation project called [Autores](https://sites.google.com/view/automated-research/home?authuser=0).
 
+<div style="text-align:center;">
+    <img src="image/tokyo_yakei.png" alt="logo" width="300" />
+</div>
 
 ## Repositories that may be useful
-- [data-science-wiki](https://www.data-science-wiki.net/)  
+- [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)  
   A variety of machine learning methods are summarized.(Currently, it is available only in Japanese.)  
-  https://github.com/fuyu-quant/data-science-wiki
+  [Data Science Wiki](https://www.data-science-wiki.net/)  
+  <img src="image/dswiki.png" alt="logo" width="300" />
 
 - [IBL:Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)  
-  A new method for learning predictive models using LLM.
+  A new method for learning predictive models using LLM.  
+  [arXiv](https://arxiv.org/abs/2308.09890) 
   
 - [dockerfile-wiki](https://github.com/fuyu-quant/dockerfile-wiki)  
   Various docker environments for data scientists．
@@ -34,21 +37,4 @@
 
 - [awesome](https://github.com/sindresorhus/awesome)  
   
-
-
-
-<!--
-**fuyu-quant/fuyu-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
