@@ -8,8 +8,9 @@
 
 
 ## Repositories that may be useful
-- [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)  
-  A variety of machine learning methods are summarized.
+- [data-science-wiki](https://www.data-science-wiki.net/)  
+  A variety of machine learning methods are summarized.(Currently, it is available only in Japanese.)  
+  https://github.com/fuyu-quant/data-science-wiki
 
 - [IBL:Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)  
   A new method for learning predictive models using LLM.
