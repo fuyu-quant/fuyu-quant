@@ -12,7 +12,9 @@
 - [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)  
   A variety of machine learning methods are summarized.(Currently, it is available only in Japanese.)  
   [Data Science Wiki](https://www.data-science-wiki.net/)  
-  <img src="image/dswiki.png" alt="logo" width="300" />
+  <a href="https://www.data-science-wiki.net/">
+<img src="image/dswiki.png" alt="Data Science Wiki" width="400"/>
+</a>
 
 - [IBL:Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)  
   A new method for learning predictive models using LLM.  
