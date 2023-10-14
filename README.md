@@ -35,9 +35,7 @@
 
 ## My Favorite Repositories
 - [OSS Insight](https://ossinsight.io/collections/)
-
 - [awesome](https://github.com/sindresorhus/awesome)
-
 - [stable diffusion webui colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 
 
