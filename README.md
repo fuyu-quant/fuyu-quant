@@ -10,27 +10,27 @@
 
 ## Repositories that may be useful
 - [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)
-  A variety of machine learning methods are summarized.(Currently, it is available only in Japanese.)
-  [Data Science Wiki](https://www.data-science-wiki.net/)
+  - A variety of machine learning methods are summarized.(Currently, it is available only in Japanese.)
+  - [Data Science Wiki](https://www.data-science-wiki.net/)
 
   <a href="https://www.data-science-wiki.net/">
   <img src="image/dswiki.png" alt="Data Science Wiki" width="400"/></a>
 
 - [IBL:Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)
-  A new method for learning predictive models using LLM.
-  [arXiv](https://arxiv.org/abs/2308.09890)
+  - A new method for learning predictive models using LLM.
+  - [arXiv](https://arxiv.org/abs/2308.09890)
 
 - [dockerfile-wiki](https://github.com/fuyu-quant/dockerfile-wiki)
-  Various docker environments for data scientists．
+  - Various docker environments for data scientists．
 
 - [langchain-wiki](https://github.com/fuyu-quant/langchain-wiki)
-  Introduce various applications using LangChain
+  - Introduce various applications using LangChain
 
 - [quantum-algorithm-wiki](https://github.com/fuyu-quant/quantum-algorithm-wiki)
-  Summary of various quantum algorithms(Currently under construction)
+  - Summary of various quantum algorithms(Currently under construction)
 
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)
-  Curation site for programming languages and libraries for quantum computation and quantum computation simulators.
+  - Curation site for programming languages and libraries for quantum computation and quantum computation simulators.
 
 
 ## My Favorite Repositories
