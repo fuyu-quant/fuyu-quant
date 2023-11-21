@@ -16,6 +16,12 @@
   <a href="https://www.data-science-wiki.net/">
   <img src="image/dswiki.png" alt="Data Science Wiki" width="400"/></a>
 
+  - [Data Science Wiki GPTs](https://chat.openai.com/g/g-w0APV35yz-data-science-wiki-gpts)
+
+  <div align="center">
+    <img src="image/gpts.jpeg" alt="Data Science Wiki GPTs" width="50">
+  </div>
+
 - [IBL:Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)
   - A new method for learning predictive models using LLM.
   - [arXiv](https://arxiv.org/abs/2308.09890)
