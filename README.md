@@ -5,8 +5,9 @@
 - I am involved in a research automation project called [Autores](https://sites.google.com/view/automated-research/home?authuser=0).
 - I am interested in data science and machine learning automation.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuyu-quant&theme=transparent)
-
+<div style="text-align:center;">
+    <img src="image/tokyo_yakei.png" alt="logo" width="300" />
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,julia,aws,docker,github)](https://skillicons.dev)
 
@@ -16,11 +17,11 @@
   - [Data Science Wiki](https://www.data-science-wiki.net/)
 
   <a href="https://www.data-science-wiki.net/">
-  <img src="image/dswiki.png" alt="Data Science Wiki" style="margin-left: 50px;" width="250"/></a>
+  <img src="image/dswiki.png" alt="Data Science Wiki" style="margin-left: 70px;" width="250"/></a>
 
   - [Data Science Wiki GPTs](https://chat.openai.com/g/g-w0APV35yz-data-science-wiki-gpts)
 
-  <img src="image/gpts.jpeg" alt="Data Science Wiki GPTs" style="margin-left: 50px;" width="50">
+  <img src="image/gpts.jpeg" alt="Data Science Wiki GPTs" style="margin-left: 70px;" width="50">
 
 - [IBL:Inductive-bias Learning](https://github.com/fuyu-quant/IBLM)
   - A new method for learning predictive models using LLM.
@@ -38,9 +39,6 @@
 - [awesome-quantum-programming-language](https://github.com/fuyu-quant/awesome-quantum-programming-languages)
   - Curation site for programming languages and libraries for quantum computation and quantum computation simulators.
 
-<div style="text-align:center;">
-    <img src="image/tokyo_yakei.png" alt="logo" width="700" />
-</div>
 
 ## My Favorite Repositories
 - [OSS Insight](https://ossinsight.io/collections/)
