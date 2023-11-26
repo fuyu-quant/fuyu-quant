@@ -6,7 +6,7 @@
 - I am interested in data science and machine learning automation.
 
 <div style="text-align:center;">
-    <img src="image/tokyo_yakei.png" alt="logo" width="300" />
+    <img src="image/tokyo_yakei.jpg" alt="logo" width="300" />
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,julia,aws,docker,github)](https://skillicons.dev)
@@ -14,12 +14,12 @@
 ## Repositories that may be useful
 - [data-science-wiki](https://github.com/fuyu-quant/data-science-wiki)
   - A variety of machine learning methods are summarized.(Currently, it is available only in Japanese.)
-  - [Data Science Wiki](https://www.data-science-wiki.net/)
+  - [Data Science wiki](https://www.data-science-wiki.net/)
 
   <a href="https://www.data-science-wiki.net/">
-  <img src="image/dswiki.png" alt="Data Science Wiki" style="margin-left: 70px;" width="250"/></a>
+  <img src="image/ds_wiki_hp_logo_小.png" alt="Data Science Wiki" style="margin-left: 50px;" width="250"/></a>
 
-  - [Data Science Wiki GPTs](https://chat.openai.com/g/g-w0APV35yz-data-science-wiki-gpts)
+  - [Data Science wiki GPTs](https://chat.openai.com/g/g-w0APV35yz-data-science-wiki-gpts)
 
   <img src="image/gpts.jpeg" alt="Data Science Wiki GPTs" style="margin-left: 70px;" width="50">
 
