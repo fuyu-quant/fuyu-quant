@@ -19,7 +19,7 @@
   <a href="https://www.data-science-wiki.net/">
   <img src="image/ds_wiki_hp_logo_小.png" alt="Data Science Wiki" style="margin-left: 50px;" width="250"/></a>
 
-  - [Data Science wiki GPTs](https://chat.openai.com/g/g-w0APV35yz-data-science-wiki-gpts)
+  - [Data Science wiki GPTs](https://chat.openai.com/g/g-Wqq2Xf4KB-data-science-wiki)
 
   <img src="image/gpts.jpeg" alt="Data Science Wiki GPTs" style="margin-left: 70px;" width="50">
 
